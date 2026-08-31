@@ -6,7 +6,7 @@ public class searchInString  {
         char target = 'r';
         System.out.println(searchInString(b,target));
 
-    }
+    }  
     static boolean searchInString(String str,char target){
         if(str == null || str.length()==0){
             return false;
