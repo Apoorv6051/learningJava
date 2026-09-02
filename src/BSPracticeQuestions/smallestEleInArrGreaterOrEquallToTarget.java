@@ -1,7 +1,7 @@
 package BSPracticeQuestions;
 
 public class smallestEleInArrGreaterOrEquallToTarget {
-    static void main(String[] args) {
+    public static void main(String[] args) {
         // CEILING NUMBER = SMALLEST ELEMENT IN ARRAY GREATER OR = TARGET
         int[] arr = {1,2,3,4,5};
         int target =6;
